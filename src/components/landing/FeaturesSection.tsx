@@ -88,5 +88,9 @@ const FeaturesSection = () => {
     </section>
   );
 };
+const car = 1;
 
 export default FeaturesSection;
+
+
+/* this is comment */
